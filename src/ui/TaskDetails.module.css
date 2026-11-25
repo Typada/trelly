@@ -1,0 +1,9 @@
+
+.details {
+    padding: 16px;
+    background: beige;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    gap: 16px;
+}
